@@ -43,11 +43,8 @@ I'm a **_Computer Engenieer Student_** at UTFPR, Universidade Tecnológica Feder
 ## **Social**
 
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="26" width="26" style="padding-right:20px;" />][linkedin]
-<a style="padding-right:10px;"></a>
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="26" width="26" style="padding-right:20px;" />][facebook]
-<a style="padding-right:10px;"></a>
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="26" width="26" style="padding-right:20px;" />][instagram]
-<a style="padding-right:10px;"></a>
 
 <br/>
 

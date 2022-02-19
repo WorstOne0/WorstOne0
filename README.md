@@ -32,7 +32,7 @@ I'm a **_Computer Engenieer Student_** at UTFPR, Universidade Tecnológica Feder
 <img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="C" width="26px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="padding-right:10px;" />
+<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="padding-right:10px;" />
 <img align="left" alt="cplusplus" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
 
@@ -42,9 +42,9 @@ I'm a **_Computer Engenieer Student_** at UTFPR, Universidade Tecnológica Feder
 
 ## **Social**
 
-<a target="_blank" href="https://www.linkedin.com/in/lucca-gabriel-410040154/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="26" width="26" style="padding-right:20px;" /></a>
-<a target="_blank" href="https://www.instagram.com/worstone0/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="26" width="26" style="padding-right:20px;" /></a>
-<a target="_blank" href="https://www.instagram.com/worstone0/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="26" width="26" style="padding-right:20px;" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/lucca-gabriel-410040154/" style="padding-right:20px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="26" width="26"  /></a>
+<a target="_blank" href="https://www.instagram.com/worstone0/" style="padding-right:20px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="26" width="26" /></a>
+<a target="_blank" href="https://www.instagram.com/worstone0/" style="padding-right:20px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="26" width="26" /></a>
 
 <br/>
 

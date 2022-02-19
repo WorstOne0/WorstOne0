@@ -42,18 +42,14 @@ I'm a **_Computer Engenieer Student_** at UTFPR, Universidade Tecnológica Feder
 
 ## **Social**
 
-[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="26" width="26" style="padding-right:20px;" />][linkedin]
-[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="26" width="26" style="padding-right:20px;" />][facebook]
-[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="26" width="26" style="padding-right:20px;" />][instagram]
+<a target="_blank" href="https://www.linkedin.com/in/lucca-gabriel-410040154/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="26" width="26" style="padding-right:20px;" /></a>
+<a target="_blank" href="https://www.instagram.com/worstone0/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="26" width="26" style="padding-right:20px;" /></a>
+<a target="_blank" href="https://www.instagram.com/worstone0/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="26" width="26" style="padding-right:20px;" /></a>
 
 <br/>
 
-## **Github Stats**
+## **Github Stats**\
 
 <br/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=worstone0&show_icons=true&locale=en" alt="worstone0" />
-
-[linkedin]: https://www.linkedin.com/in/lucca-gabriel-410040154/
-[instagram]: https://www.instagram.com/worstone0/
-[facebook]: https://www.facebook.com/lucca.gabriel.7

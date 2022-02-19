@@ -1,17 +1,17 @@
 ![Intro](/img/download.png)
 
-# Hey there!, Welcome to my page. 🖥️
+# Hey there! Welcome to my page. 🖥️
 
 <!---
  (<p align="center"><img src="https://komarev.com/ghpvc/?username=worstone0&label=Profile%20views&color=0e75b6&style=flat" alt="worstone0" /></p>)
  --->
 
-I'm a **_Computer Engenieer Student_** at UTFPR, Universidade Tecnológica Federal do Paraná, from _Brazil, Paraná_. I'm a self-taught _"Full Stack Developer"_.
+I'm a **_Computer Engenieer Student_** at UTFPR, Universidade Tecnológica Federal do Paraná, from <span style="color: #85FA92;">**_Brazil, Paraná_**</span>. I'm a self-taught _"Full Stack Developer"_.
 
 ### **Learning** 📖
 
 - Frontend with React.
-- Backend with NodeJs, Express and GraphQL.
+- Backend with NodeJS, Express and GraphQL.
 - Starting in the world of Python.
 
 ### **Hobbies** ⚽
@@ -43,11 +43,8 @@ I'm a **_Computer Engenieer Student_** at UTFPR, Universidade Tecnológica Feder
 ## **Social**
 
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="26" width="26" style="padding-right:20px;" />][linkedin]
-<a style="padding-right:10px;"></a>
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="26" width="26" style="padding-right:20px;" />][facebook]
-<a style="padding-right:10px;"></a>
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="26" width="26" style="padding-right:20px;" />][instagram]
-<a style="padding-right:10px;"></a>
 
 <br/>
 

@@ -1,4 +1,4 @@
-![Intro](/img/download.png)
+![Intro](/img/Github_Banner.png)
 
 # Hey there! Welcome to my page. 🖥️
 
@@ -17,8 +17,8 @@ I'm a **_Computer Engenieer Student_** at UTFPR, Universidade Tecnológica Feder
 ### **Hobbies** ⚽
 
 - Gaming 🕹️.
-- Watch Anime 📺.
-- Read Manga / Light Novel 🕮.
+- Watching Anime 📺.
+- Reading Manga / Light Novel 🕮.
 
 <br/>
 
@@ -48,7 +48,7 @@ I'm a **_Computer Engenieer Student_** at UTFPR, Universidade Tecnológica Feder
 
 <br/>
 
-## **Github Stats**\
+## **Github Stats**
 
 <br/>
 
